@@ -16,3 +16,8 @@ $ npm run build
 # watch mode
 $ npm run dev
 ```
+
+## Stack
+- NodeJS (expressjs)
+- PostgreSQL (ORM Sequelize)
+- TS
